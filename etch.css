@@ -1,0 +1,20 @@
+table {
+border: 1px solid black;
+border-collapse: collapse;
+width: 760px;
+height:760px;
+}
+
+.box {
+
+border: 1px solid white;
+margin: auto;
+background-color:black;
+}
+
+
+#b {
+position: relative;
+left:300px;
+}
+
